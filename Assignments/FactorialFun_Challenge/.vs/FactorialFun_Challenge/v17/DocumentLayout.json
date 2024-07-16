@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Udemy_Cplusplus_Course\\Assignments\\FactorialFun_Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71719AF9-3A06-4A76-965F-23651AB1580E}|FactorialFun_Challenge\\FactorialFun_Challenge.vcxproj|D:\\Github\\Udemy_Cplusplus_Course\\Assignments\\FactorialFun_Challenge\\FactorialFun_Challenge\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71719AF9-3A06-4A76-965F-23651AB1580E}|FactorialFun_Challenge\\FactorialFun_Challenge.vcxproj|solutionrelative:FactorialFun_Challenge\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Github\\Udemy_Cplusplus_Course\\Assignments\\FactorialFun_Challenge\\FactorialFun_Challenge\\Main.cpp",
+              "RelativeDocumentMoniker": "FactorialFun_Challenge\\Main.cpp",
+              "ToolTip": "D:\\Github\\Udemy_Cplusplus_Course\\Assignments\\FactorialFun_Challenge\\FactorialFun_Challenge\\Main.cpp",
+              "RelativeToolTip": "FactorialFun_Challenge\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T06:07:59.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
