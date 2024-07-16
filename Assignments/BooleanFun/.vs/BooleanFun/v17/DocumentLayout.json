@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Practice\\BooleanFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF684D74-1F4B-4AF8-92C6-CF483880F1C4}|BooleanFun\\BooleanFun.vcxproj|D:\\Programming\\Practice\\BooleanFun\\BooleanFun\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF684D74-1F4B-4AF8-92C6-CF483880F1C4}|BooleanFun\\BooleanFun.vcxproj|solutionrelative:BooleanFun\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Programming\\Practice\\BooleanFun\\BooleanFun\\Main.cpp",
+              "RelativeDocumentMoniker": "BooleanFun\\Main.cpp",
+              "ToolTip": "D:\\Programming\\Practice\\BooleanFun\\BooleanFun\\Main.cpp",
+              "RelativeToolTip": "BooleanFun\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T05:37:02.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

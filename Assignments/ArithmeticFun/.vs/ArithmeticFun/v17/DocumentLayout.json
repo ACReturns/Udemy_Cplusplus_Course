@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Practice\\ArithmeticFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23FC0B6-B46A-42E3-AD02-CA3D8A4D16FA}|ArithmeticFun\\ArithmeticFun.vcxproj|D:\\Programming\\Practice\\ArithmeticFun\\ArithmeticFun\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B23FC0B6-B46A-42E3-AD02-CA3D8A4D16FA}|ArithmeticFun\\ArithmeticFun.vcxproj|solutionrelative:ArithmeticFun\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Programming\\Practice\\ArithmeticFun\\ArithmeticFun\\Main.cpp",
+              "RelativeDocumentMoniker": "ArithmeticFun\\Main.cpp",
+              "ToolTip": "D:\\Programming\\Practice\\ArithmeticFun\\ArithmeticFun\\Main.cpp",
+              "RelativeToolTip": "ArithmeticFun\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T05:52:25.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
