@@ -1,2 +1,4 @@
 # Udemy_Cplusplus_Course
- C++ Developer Course
+ C++ Developer Course (https://www.udemy.com/course/the-complete-cpp-developer-course/)
+
+A course from Udemy taught by John P. Baugh, this course is helping me take a deeeper dive into understanding how to utilize and write in C++. While still in the works, I'll slowly highlight key projects along the way to display the knowledge and understanding I've gained. C++ definitely gives you a lot of freedom to do as you please I've noticed while also leaving you with oppertunities to slip up as everything is not encapsulated in one library similar to how C# works. It's been an enjoyable run sofar and looking forward to progressing even more.     
